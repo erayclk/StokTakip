@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projeler\\c#\\stkTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|c:\\projeler\\c#\\stktakip\\stktakip\\migrations\\20250206214330_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|solutionrelative:stktakip\\migrations\\20250206214330_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|c:\\projeler\\c#\\stktakip\\stktakip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|solutionrelative:stktakip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|c:\\projeler\\c#\\stktakip\\stktakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|solutionrelative:stktakip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|c:\\projeler\\c#\\stktakip\\stktakip\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE612E75-7DB2-45DF-865D-0632D62A43D8}|stkTakip\\stkTakip.csproj|solutionrelative:stktakip\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250206214330_InitialCreate.cs",
+              "DocumentMoniker": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Migrations\\20250206214330_InitialCreate.cs",
+              "RelativeDocumentMoniker": "stkTakip\\Migrations\\20250206214330_InitialCreate.cs",
+              "ToolTip": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Migrations\\20250206214330_InitialCreate.cs",
+              "RelativeToolTip": "stkTakip\\Migrations\\20250206214330_InitialCreate.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:54:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "stkTakip\\Form1.Designer.cs",
+              "ToolTip": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Form1.Designer.cs",
+              "RelativeToolTip": "stkTakip\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:54:12.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "stkTakip\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Forms\\MainForm.cs",
+              "RelativeToolTip": "stkTakip\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA6wDMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:36:39.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Form1.cs",
+              "RelativeDocumentMoniker": "stkTakip\\Form1.cs",
+              "ToolTip": "C:\\projeler\\c#\\stkTakip\\stkTakip\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "stkTakip\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T21:31:43.663Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
